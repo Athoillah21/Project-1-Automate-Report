@@ -1,2 +1,9 @@
-# Project-1-Automate-Report
- Project 1 from DigitalSkola to understand how to use python to create automate reports and send them to the discord room.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+Project;Made+By+Athoillah+😊;An+Automated+Report!+🚀;Using+Python✨&center=true&size=30">
+  </a>
+</h1>
+
+<hr>
+
+<h2 align="center">Automated Report Using Python</h2>
